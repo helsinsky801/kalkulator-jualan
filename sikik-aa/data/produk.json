@@ -1,0 +1,14 @@
+{
+    "B001": {
+        "nama": "Laptop Asus ROG",
+        "harga": 15000000
+    },
+    "B002": {
+        "nama": "Mouse Logitech Wireless",
+        "harga": 250000
+    },
+    "B003":{
+        "nama": "Keyboard Mechanical Gateron",
+        "harga": 850000
+    }
+}
